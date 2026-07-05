@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `tenant-navigation-tutorial`
 - Gravar demo com dados seguros.
 - Entregar pacote de edicao e checklist de qualidade.
 
+## Processo basico bem feito
+
+1. Definir objetivo, publico, canal, duracao, mensagem principal e criterio de qualidade.
+2. Usar ambiente demo, conta teste ou dados ficticios; nunca gravar dados reais sem autorizacao.
+3. Mapear telas permitidas, telas proibidas, jornada, cortes e pontos de zoom/destaque.
+4. Criar roteiro narrado com frases curtas e beneficio claro.
+5. Preparar storyboard ou lista de cenas antes de gravar.
+6. Gerar ou gravar audio, legenda e video em formatos editaveis.
+7. Revisar visualmente o arquivo final: enquadramento, audio, legenda, dados sensiveis, ritmo e clareza.
+8. Salvar pacote completo: roteiro, video, audio, SRT/VTT, instrucoes de edicao, capa e relatorio.
+9. Criar cron apenas para revisao de videos antigos, links quebrados, demos desatualizadas ou backlog de tutoriais.
+10. Publicar somente apos QA e aprovacao quando houver marca, cliente real, claim comercial ou canal externo.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

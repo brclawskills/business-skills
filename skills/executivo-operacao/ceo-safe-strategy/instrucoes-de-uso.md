@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `ceo-safe-strategy` em um ne
 - Apontar lacunas.
 - Escalar decisoes sensiveis.
 
+## Processo basico bem feito
+
+1. Ler o estado oficial do negocio: ERP, tarefas, riscos, rotinas, indicadores e bloqueios abertos.
+2. Separar fato, suposicao e decisao pendente.
+3. Identificar o gargalo principal do dia: receita, operacao, produto, suporte, financeiro, juridico ou tecnologia.
+4. Escolher no maximo 3 prioridades acionaveis por ciclo.
+5. Para cada prioridade, definir dono, prazo, criterio de pronto e evidencia esperada.
+6. Executar apenas acoes internas ou previamente aprovadas; preparar recomendacao para decisoes sensiveis.
+7. Registrar no ERP ou board o que mudou, o que ficou bloqueado e o proximo passo.
+8. Fechar o ciclo com resumo executivo: decisoes, riscos, metricas, pendencias e follow-up.
+9. Criar cron somente para verificacoes recorrentes com fonte objetiva, como status de tarefas, rotinas vencidas, riscos, pipeline ou fechamento diario.
+10. Revisar semanalmente se as rotinas ainda geram decisao util; pausar cron que apenas repete ruido.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

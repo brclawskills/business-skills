@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `loyalty-cashback-economics`
 - Sugerir proximos passos com guardrails.
 - Escalar decisoes sensiveis.
 
+## Processo basico bem feito
+
+1. Separar tipo de demanda: preco, cobranca, contrato, LGPD, fidelidade, forecast, inadimplencia ou risco.
+2. Coletar dados minimos e fonte oficial: plano, contrato, historico, valores, consentimento, status e responsavel.
+3. Identificar regra aplicavel e lacunas; nao inventar interpretacao juridica, fiscal ou contabil.
+4. Preparar opcoes com impacto, risco, evidencia e recomendacao.
+5. Exigir aprovacao humana para desconto, cobranca, cancelamento, contrato, termo, dado pessoal ou comunicacao sensivel.
+6. Registrar decisao, aprovador, data, valor, documento e proximo passo.
+7. Atualizar forecast, pipeline, billing ou risco quando a decisao alterar o negocio.
+8. Criar cron para inadimplencia, renovacoes, forecast, revisao de termos e riscos vencidos.
+9. Manter trilha de auditoria limpa, sem expor dados pessoais desnecessarios.
+10. Encerrar com status financeiro/juridico claro e proxima acao verificavel.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

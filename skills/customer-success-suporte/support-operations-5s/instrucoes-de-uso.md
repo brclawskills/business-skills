@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `support-operations-5s` em u
 - Registrar risco de churn.
 - Escalar pagamentos, LGPD, contrato ou falha tecnica.
 
+## Processo basico bem feito
+
+1. Identificar cliente, plano, etapa, historico, ultima interacao e risco atual.
+2. Classificar a demanda: duvida, bug, implantacao, uso, cobranca, contrato, churn ou oportunidade.
+3. Resolver o menor proximo passo util, sem mandar lista longa de funcionalidades.
+4. Quando houver tutorial, guiar por tarefa real do cliente e confirmar entendimento.
+5. Registrar resposta, status, dono, prazo, risco e proximo contato.
+6. Escalar bug, pagamento, contrato, LGPD, dado sensivel ou promessa comercial.
+7. Fechar chamado apenas com criterio de resolucao ou proximo passo aceito.
+8. Atualizar health score quando houver sinal de ativacao, bloqueio, churn, expansao ou satisfacao.
+9. Criar cron para onboarding pendente, chamados vencidos, health score e winback.
+10. Revisar semanalmente os motivos recorrentes e converter em tutorial, checklist ou melhoria de produto.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

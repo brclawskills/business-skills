@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `erp-agent-measurement` em u
 - Apontar lacunas e inconsistencias.
 - Gerar recomendacao com impacto mensuravel.
 
+## Processo basico bem feito
+
+1. Definir pergunta de negocio antes de buscar dados.
+2. Identificar fonte oficial, janela de tempo, filtros, dono da metrica e criterio de verdade.
+3. Extrair dados com o menor acesso necessario, preferindo leitura.
+4. Validar integridade: nulos, duplicados, datas, status, totais e divergencias.
+5. Conciliar dado operacional com report humano quando houver diferenca relevante.
+6. Calcular metricas e explicar impacto, nao apenas listar numeros.
+7. Registrar lacunas, suposicoes e confianca da analise.
+8. Atualizar ERP/dashboard quando houver mudanca mensuravel.
+9. Criar cron para metricas recorrentes, conciliacao, alertas de desvio e higiene de dados.
+10. Encerrar com decisao sugerida, responsavel e proximo passo verificavel.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

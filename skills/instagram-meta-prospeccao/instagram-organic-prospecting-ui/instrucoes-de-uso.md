@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `instagram-organic-prospecti
 - Monitorar respostas, curtidas, follows e DMs.
 - Registrar evidencias e sugerir proximo toque seguro.
 
+## Processo basico bem feito
+
+1. Definir segmento, praca, volume maximo, canais permitidos e criterio de fit.
+2. Descobrir alvos por Google Search, Google Places, Instagram, site oficial ou diretorios publicos.
+3. Registrar fonte e evidencia antes de qualquer interacao.
+4. Enriquecer com CNPJ.ws apenas quando o CNPJ for encontrado com confianca.
+5. Deduplicar por CNPJ, Google Place ID, telefone, dominio, Instagram e nome+cidade.
+6. Pontuar fit e decidir status: discovered, enriched, qualified, contact-ready, contacted, blocked ou discarded.
+7. Escolher interacao segura: apenas mapear, seguir, comentar contextual, responder DM ou preparar abordagem.
+8. Respeitar limites da plataforma; parar em caso de captcha, bloqueio, queda de qualidade ou sinal negativo.
+9. Registrar cada interacao e proximo passo no CRM/ERP.
+10. Criar crons separados para descoberta, enriquecimento, monitoramento e higiene; nunca misturar pesquisa com disparo automatico.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

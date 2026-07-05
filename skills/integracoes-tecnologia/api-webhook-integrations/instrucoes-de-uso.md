@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `api-webhook-integrations` e
 - Documentar erros e retries.
 - Escalar falhas de producao com evidencias.
 
+## Processo basico bem feito
+
+1. Ler documentacao da API, limites, autenticacao, payloads, webhooks e ambiente sandbox.
+2. Definir contrato de dados: campos obrigatorios, tipos, exemplos, erros, retries e idempotencia.
+3. Guardar credenciais apenas em secret manager ou variaveis de ambiente.
+4. Testar primeiro em sandbox com payload minimo e payload realista.
+5. Registrar request, response, status, latency, correlation id e erro.
+6. Implementar backoff, limite de taxa, timeout, assinatura/verificacao e logs.
+7. Preparar rollback e criterio de aceite antes de producao.
+8. Monitorar health check, fila, falhas, duplicidades e reprocessamentos.
+9. Criar cron para health check, relatorio de erros e reprocessamento idempotente controlado.
+10. Nunca criar loop automatico que reenvie falha sem limite, alerta e criterio de parada.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.

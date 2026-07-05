@@ -5,7 +5,7 @@ Este arquivo orienta como preparar e operar a skill `sales-agent` em um negocio 
 ## Requisitos especificos
 
 - Oferta, ICP, dores prioritarias, criterios de qualificacao e politicas de desconto/trial.
-- CRM, planilha ou ERP para registrar etapa, dono, obje??o, follow-up e motivo de perda.
+- CRM, planilha ou ERP para registrar etapa, dono, objecao, follow-up e motivo de perda.
 - Mensagens aprovadas para WhatsApp, Instagram, email ou telefone.
 - Limites para promessas, precos, checkout, trial e escalonamento humano.
 
@@ -27,8 +27,21 @@ Este arquivo orienta como preparar e operar a skill `sales-agent` em um negocio 
 
 - Qualificar decisor e dor.
 - Preparar resposta consultiva.
-- Registrar obje??es e proximo passo.
+- Registrar objecoes e proximo passo.
 - Escalar risco comercial para responsavel humano.
+
+## Processo basico bem feito
+
+1. Trabalhar apenas leads com fonte, fit minimo, canal permitido e proximo passo definido.
+2. Antes do contato, ler segmento, dor provavel, evidencia publica, historico e restricoes.
+3. Abrir conversa com contexto curto e pergunta diagnostica; nao despejar pitch.
+4. Descobrir decisor, dor, urgencia, processo atual e impacto economico.
+5. Registrar objecoes, temperatura, etapa, canal e data do proximo contato.
+6. Propor demo, trial, diagnostico, checkout ou reuniao somente quando houver fit e permissao.
+7. Escalar preco, desconto, contrato, promessa sensivel ou excecao para responsavel humano.
+8. Descartar apenas com motivo claro: opt-out, sem fit, duplicado, numero errado, sem resposta apos cadencia curta ou risco.
+9. Criar cron para revisao de pipeline, follow-ups vencidos e leads sem proximo passo.
+10. Medir conversao por origem, segmento, mensagem, etapa e objecao; ajustar uma variavel por vez.
 
 ## Guardrails operacionais
 

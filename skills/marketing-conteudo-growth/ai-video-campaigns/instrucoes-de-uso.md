@@ -30,6 +30,19 @@ Este arquivo orienta como preparar e operar a skill `ai-video-campaigns` em um n
 - Publicar/agendar com aprovacao.
 - Analisar performance e gerar proxima hipotese.
 
+## Processo basico bem feito
+
+1. Comecar por um briefing minimo: publico, dor, oferta, canal, objetivo, CTA e restricoes.
+2. Pesquisar contexto: concorrentes, busca organica, posts recentes, perguntas de clientes e provas disponiveis.
+3. Formular uma tese: qual dor sera nomeada, qual mecanismo resolve e qual proximo passo sera pedido.
+4. Produzir o ativo em uma versao simples primeiro: pauta, copy, roteiro, criativo, artigo ou campanha.
+5. Fazer QA antes de publicar: promessa, tom, portugues, visual, direitos de uso, dados sensiveis, CTA e risco juridico.
+6. Publicar ou agendar somente em canal aprovado, com legenda/copy no campo correto e asset final conferido.
+7. Registrar URL, data, canal, tese, segmento, CTA e responsavel.
+8. Medir resultado por objetivo: alcance qualificado, clique, resposta, lead, oportunidade, conversao ou aprendizado.
+9. Criar cron para calendario editorial, QA de posts futuros, revisao de performance e alertas de campanha ativa.
+10. Transformar aprendizados em nova hipotese; nao produzir volume sem fechar o ciclo de medicao.
+
 ## Guardrails operacionais
 
 - Comecar em modo dry-run quando a skill puder enviar mensagens, publicar conteudo, alterar dados, cobrar, cancelar, integrar sistemas ou tocar clientes.
