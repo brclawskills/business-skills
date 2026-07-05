@@ -1,9 +1,9 @@
 ---
-name: "conecta-clube-sales-agent"
+name: "sales-agent"
 description: "Nao decisor: chegar ao decisor por perguntas"
 ---
 
-# Atualizacao proposta - Conecta Clube Sales Agent
+# Sales Agent
 
 ## Quando O Primeiro Contato Nao For Decisor
 
