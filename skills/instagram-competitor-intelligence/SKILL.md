@@ -1,17 +1,17 @@
 ---
-name: "conecta-instagram-inteligencia-concorrencia"
-description: "Pesquisar concorrentes e revisar hashtags."
+name: "instagram-competitor-intelligence"
+description: "Pesquisar concorrentes, hashtags, posicionamento e oportunidades no Instagram."
 ---
 
-# Conecta Instagram Inteligencia Concorrencia
+# Instagram Inteligencia de Concorrencia
 
 ## Objetivo
 
-Estudar concorrentes diretos e perfis adjacentes no Instagram antes de criar, revisar ou agendar conteudos organicos do Conecta Clube, extraindo aprendizados reutilizaveis de linguagem, temas, hashtags e CTAs sem copiar conteudo e sem criar risco de suspensao no Meta.
+Estudar concorrentes diretos e perfis adjacentes no Instagram antes de criar, revisar ou agendar conteudos organicos do produto, extraindo aprendizados reutilizaveis de linguagem, temas, hashtags e CTAs sem copiar conteudo e sem criar risco de suspensao no Meta.
 
 Use quando:
 
-- for criar ou revisar um lote organico do Conecta;
+- for criar ou revisar um lote organico do produto;
 - houver duvida sobre hashtags, legendas ou CTAs;
 - o usuario pedir estudo de concorrencia, benchmarking, engajamento ou publico dos concorrentes;
 - antes de prospeccao organica publica em posts de terceiros;
@@ -34,7 +34,7 @@ Prioridade:
 
 1. Posts e perfis publicos de concorrentes/adjascentes vistos no Instagram Web.
 2. Busca web publica por snippets de posts/perfis quando o Instagram bloquear leitura direta.
-3. Perfil atual do Conecta e posts ja publicados.
+3. Perfil atual do produto e posts ja publicados.
 4. Arquivos locais de legendas, fila de agendamento e registros de desempenho.
 
 Nao usar:
@@ -84,7 +84,7 @@ Para cada amostra relevante, registrar:
 - aparente formato de maior apelo: educativo, dor, prova, comparativo, meme leve, antes/depois, tutorial;
 - risco a evitar: promessa agressiva, spam, hashtag irrelevante, copia, marca concorrente.
 
-Padroes que normalmente interessam ao Conecta:
+Padroes que normalmente interessam ao produto:
 
 - cliente voltar;
 - proxima visita;
@@ -110,7 +110,7 @@ Padroes que normalmente interessam ao Conecta:
 5. Reescrever legendas por segmento, mantendo:
    - gancho forte nos 120 primeiros caracteres;
    - dor clara;
-   - mecanismo Conecta: fidelidade, cashback, CRM, recompra, campanhas;
+   - mecanismo produto: fidelidade, cashback, CRM, recompra, campanhas;
    - CTA leve;
    - 5 a 10 hashtags contextuais.
 6. Evitar repetir o mesmo bloco de hashtags em todos os posts.
@@ -124,7 +124,7 @@ Combinar quatro grupos:
 - mecanismo: `#recompra`, `#fidelizacao`, `#cashback`, `#crm`, `#retencao`;
 - segmento: `#restaurantes`, `#pizzaria`, `#hamburgueria`, `#lojademoda`, `#barbearia`, `#estetica`, `#delivery`;
 - gestao: `#gestaodeclientes`, `#marketinglocal`, `#varejolocal`, `#ticketmedio`, `#margem`;
-- marca: `#conectaclube`.
+- marca: `#marca`.
 
 Evitar:
 
