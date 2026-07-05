@@ -1,11 +1,11 @@
 ---
 name: "video-tour"
-description: "Produz videos tutoriais e tours guiados com analise do SaaS, roteiro, narracao por IA, legenda, gravacao de tela, takes organizados e pacote pronto para edicao."
+description: "Produz videos tutoriais e tours guiados com analise do SaaS, roteiro, narracao por IA, legenda, gravacao de tela e pacote para edicao."
 ---
 
 # Video Tour
 
-Use para produzir vídeos explicativos, tours de plataforma, tutoriais de funcionalidade, onboarding, vídeos comerciais, treinamentos internos, demonstrações guiadas e materiais com gravação de tela, narração e legenda do Conecta Clube.
+Use para produzir vídeos explicativos, tours de plataforma, tutoriais de funcionalidade, onboarding, vídeos comerciais, treinamentos internos, demonstrações guiadas e materiais com gravação de tela, narração e legenda do produto.
 
 ## Dependência obrigatória
 
