@@ -1,11 +1,11 @@
 ---
-name: "conecta-juridico-lgpd-fidelidade"
-description: "Juridico, LGPD e regras de fidelidade do Conecta."
+name: "loyalty-lgpd-legal"
+description: "Juridico, LGPD, termos, contratos e regras de fidelidade/cashback."
 ---
 
-# Conecta Juridico LGPD Fidelidade
+# Juridico LGPD Fidelidade
 
-Use para mapear riscos juridicos, LGPD, termos, regras de pontos/cashback, contratos e politicas do Conecta Clube.
+Use para mapear riscos juridicos, LGPD, termos, regras de pontos/cashback, contratos e politicas do produto.
 
 ## Mandato
 
