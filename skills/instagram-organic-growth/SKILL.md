@@ -1,19 +1,19 @@
 ---
-name: "conecta-instagram-organico-100k"
-description: "Metodo oficial: GPT sem logo + logo oficial."
+name: "instagram-organic-growth"
+description: "Metodo de crescimento organico no Instagram com criativos, contexto e guardrails."
 ---
 
-# Conecta Instagram Organico 100k
+# Instagram Organico Growth
 
 ## Regra principal
 
-Qualquer criativo novo do Conecta precisa partir do padrao ja validado para cima. Nunca voltar para uma versao virgem de instrucao, layout basico, card generico ou template programatico.
+Qualquer criativo novo do produto precisa partir do padrao ja validado para cima. Nunca voltar para uma versao virgem de instrucao, layout basico, card generico ou template programatico.
 
 Se nao for possivel entregar no nivel visual ja aprendido, parar e avisar. E melhor dizer que nao da para entregar naquele padrao agora do que produzir uma peca inferior.
 
 ## Blacklist: nunca entregar
 
-Nunca entregar como criativo do Conecta:
+Nunca entregar como criativo do produto:
 
 - Arte programatica/HTML/CSS/System.Drawing com cara de template.
 - Layout com formas genericas, orbs, bolhas, chips, barras e cards soltos sem cena integrada.
@@ -23,7 +23,7 @@ Nunca entregar como criativo do Conecta:
 - Variação cosmetica sem nova tese, nova dor ou novo insight.
 - Imagem com legenda completa, paragrafos ou hashtags queimadas na arte.
 - Arte sem acentuacao correta em portugues brasileiro.
-- Arte que recrie, distorca, aproxime ou invente a logo do Conecta.
+- Arte que recrie, distorca, aproxime ou invente a logo do produto.
 - Arte abaixo dos melhores padroes ja publicados/validados no perfil atual.
 
 Se alguma dessas coisas acontecer, a peca esta reprovada por definicao e nao deve ser entregue, agendada, publicada, subida ao Canva ou usada como referencia.
@@ -32,7 +32,7 @@ Se alguma dessas coisas acontecer, a peca esta reprovada por definicao e nao dev
 
 1. Usar GPT/image generation para criar a arte final integrada, com prompt assertivo.
 2. Pedir uma unica peca por imagem.
-3. Proibir o gerador de criar, escrever, aproximar ou renderizar qualquer logo/wordmark do Conecta.
+3. Proibir o gerador de criar, escrever, aproximar ou renderizar qualquer logo/wordmark do produto.
 4. Reservar area limpa e escura no topo ou canto superior para a logo oficial.
 5. Depois da geracao, inserir somente o PNG oficial da logo a partir do brand pack permitido.
 6. Validar visualmente contra os melhores posts do perfil atual.
@@ -42,7 +42,7 @@ Se alguma dessas coisas acontecer, a peca esta reprovada por definicao e nao dev
 
 Antes de mostrar ao usuario, responder SIM para tudo:
 
-- Parece natural no grid atual do Conecta?
+- Parece natural no grid atual do produto?
 - Esta no nivel dos melhores posts ja validados ou acima?
 - Nasceu como arte integrada, nao montagem programatica?
 - Tem cena realista/3D/premium com contexto de loja?
@@ -57,13 +57,13 @@ Se alguma resposta for NAO, refazer ou parar.
 
 ## Referencia de padrao correto
 
-Usar como referencia principal o proprio perfil atual do Conecta e os criativos ja validados, especialmente os lotes premium gerados com GPT e logo oficial aplicada depois.
+Usar como referencia principal o proprio perfil atual do produto e os criativos ja validados, especialmente os lotes premium gerados com GPT e logo oficial aplicada depois.
 
 Padroes esperados:
 
 - Cena premium/3D/realista integrada.
 - Contexto de comercio local, caixa, cliente, pedido, vitrine, pet, beleza, food, moda ou varejo recorrente.
-- Paleta escura/graphite com verde Conecta e acentos controlados.
+- Paleta escura/graphite com verde produto e acentos controlados.
 - Tipografia forte, limpa e de conversao.
 - Uma dor por criativo.
 - Uma tese visual memoravel.
@@ -73,7 +73,7 @@ Padroes esperados:
 
 1. Abrir ou consultar referencias do perfil atual e dos melhores criativos aprovados.
 2. Escolher no maximo 2 ou 3 conceitos por rodada ate acertar a mao.
-3. Escrever a tese: dor economica, cenario de loja, mecanismo Conecta e CTA leve.
+3. Escrever a tese: dor economica, cenario de loja, mecanismo produto e CTA leve.
 4. Gerar via GPT/image generation sem logo.
 5. Descartar qualquer saida com texto errado, logo falsa, composicao pobre ou cara de template.
 6. Aplicar a logo oficial.
