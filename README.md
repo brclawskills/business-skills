@@ -23,6 +23,7 @@ skills/
 
 Departamentos atuais:
 
+- `academia-agentes`
 - `comercial-vendas`
 - `customer-success-suporte`
 - `dados-erp-bi`
