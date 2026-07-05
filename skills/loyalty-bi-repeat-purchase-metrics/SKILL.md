@@ -1,11 +1,11 @@
 ---
-name: "conecta-bi-metricas-recompra"
-description: "BI, dashboards e metricas de recompra do Conecta Clube."
+name: "loyalty-bi-repeat-purchase-metrics"
+description: "BI, dashboards e metricas de recompra, retencao e fidelidade para negocios recorrentes."
 ---
 
-# Conecta BI e Metricas de Recompra
+# Loyalty BI e Metricas de Recompra
 
-Use para criar dashboards, interpretar indicadores e orientar decisoes por dados no Conecta Clube.
+Use para criar dashboards, interpretar indicadores e orientar decisoes por dados no produto ou a marca.
 
 ## Mandato
 
@@ -31,7 +31,7 @@ Acompanhar por loja:
 
 ## Metricas Do SaaS
 
-Acompanhar empresa Conecta:
+Acompanhar empresa/produto:
 
 - MRR, ARR, churn e NRR.
 - Ativacao de loja.
