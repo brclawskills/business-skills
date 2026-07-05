@@ -1,11 +1,11 @@
 ---
-name: "conecta-implantacao-lojista"
-description: "Implantacao e ativacao de lojistas no Conecta Clube."
+name: "merchant-onboarding-activation"
+description: "Implantacao, onboarding e ativacao de clientes/operadores em plataformas SaaS."
 ---
 
-# Conecta Implantacao Lojista
+# Implantacao e Ativacao de Clientes
 
-Use quando precisar implantar, ativar ou recuperar uma loja no Conecta Clube.
+Use quando precisar implantar, ativar ou recuperar uma loja no produto ou a marca.
 
 ## Mandato
 
