@@ -1,8 +1,8 @@
-# Playbook Inicial - Videos IA Conecta - 2026-06-21
+# Playbook Inicial - Videos IA produto - 2026-06-21
 
 ## Objetivo
 
-Padronizar uso de geracao de videos com IA para campanhas pagas, conteudo organico e materiais gratuitos do Conecta, minimizando retrabalho.
+Padronizar uso de geracao de videos com IA para campanhas pagas, conteudo organico e materiais gratuitos do produto, minimizando retrabalho.
 
 ## Estado atual da ferramenta
 
@@ -18,9 +18,9 @@ Criar video por prompt, guiar com imagem/primeiro frame, reutilizar personagens/
 
 `sora-2`: mais rapido para exploracao. `sora-2-pro`: maior qualidade para final, 1080p vertical/horizontal. Duracoes documentadas: 4, 8, 12, 16 e 20 segundos.
 
-## Guardrails Conecta
+## Guardrails produto
 
-Nao usar rostos reais, pessoas publicas, personagens famosos, musicas protegidas, marcas de terceiros ou interface falsa como produto real. Nao recriar a logo do Conecta por IA; aplicar logo oficial depois. Nao prometer ROI/faturamento/percentuais garantidos.
+Nao usar rostos reais, pessoas publicas, personagens famosos, musicas protegidas, marcas de terceiros ou interface falsa como produto real. Nao recriar a logo do produto por IA; aplicar logo oficial depois. Nao prometer ROI/faturamento/percentuais garantidos.
 
 ## Ferramentas
 
