@@ -1,6 +1,6 @@
 ---
 name: "sales-agent"
-description: "Nao decisor: chegar ao decisor por perguntas"
+description: "Abordagem comercial segura quando o primeiro contato nao e decisor; chegar ao decisor por perguntas."
 ---
 
 # Sales Agent
