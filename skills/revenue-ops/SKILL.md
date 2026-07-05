@@ -1,11 +1,11 @@
 ---
-name: "conecta-revenue-ops"
-description: "Revenue ops, planos, cobranca, afiliados e forecast MRR."
+name: "revenue-ops"
+description: "Revenue ops, planos, cobranca, afiliados, forecast, MRR e canais comerciais."
 ---
 
-# Conecta Revenue Ops
+# Revenue Ops
 
-Use para gerir receita recorrente, planos, cobranca, canais comerciais e previsao financeira do Conecta Clube.
+Use para gerir receita recorrente, planos, cobranca, canais comerciais e previsao financeira do produto.
 
 ## Mandato
 
