@@ -1,9 +1,9 @@
 ---
-name: "conecta-economia-fidelidade-cashback"
-description: "Economia de pontos, recompensas, cashback e margem."
+name: "loyalty-cashback-economics"
+description: "Economia de pontos, recompensas, cashback, margem e regras de programas de fidelidade."
 ---
 
-# Conecta Economia de Fidelidade e Cashback
+# Economia de Fidelidade e Cashback
 
 Use para calcular, revisar e orientar programas de pontos, recompensas, cupons e cashback.
 
