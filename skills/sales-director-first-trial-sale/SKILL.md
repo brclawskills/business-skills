@@ -1,9 +1,9 @@
 ---
-name: "conecta-diretor-comercial-primeira-venda-trial"
-description: "Plano 10 clientes ate 10/07."
+name: "sales-director-first-trial-sale"
+description: "Plano comercial para primeira venda, trial, diagnostico, checkout e follow-up seguro."
 ---
 
-# Addendum - Plano Comercial 10 clientes ate 10/07
+# Diretor Comercial Primeira Venda Trial
 
 ## Objetivo
 
@@ -18,7 +18,7 @@ Venda plena continua sendo pagamento + ativacao. Trial sem agenda, sem responsav
 
 ## Tese comercial
 
-O Conecta deve ser vendido como rotina de retencao, recompra e reativacao de base, nao como promessa de faturamento.
+O produto deve ser vendido como rotina de retencao, recompra e reativacao de base, nao como promessa de faturamento.
 
 Mensagem central:
 
@@ -34,15 +34,15 @@ Em cenario caro, incerto e com varejo local pressionado pela internet, priorizar
 
 ## Revisao de oferta e friccoes
 
-Antes de enviar checkout, validar fonte oficial atual no site `conectaclube.app.br`.
+Antes de enviar checkout, validar fonte oficial atual no site `dominio-oficial.example`.
 
-Pontos de risco a revisar com Bruno quando aparecerem:
+Pontos de risco a revisar com o responsavel pelo negocio quando aparecerem:
 
 - Materiais antigos usam `plan=basic` e precos inferiores; auditoria mais recente apontou `plan=start` e precos atuais diferentes. Nao misturar nomenclatura antiga com a oferta publica.
 - Nao abrir conversa fria falando de preco. Diagnosticar primeiro e recomendar menor plano suficiente.
 - Evitar vender `cashback` como desconto aberto. Explicar como clube, recompensa e motivo de retorno; so detalhar percentual/regra depois de entender margem/ticket.
 - Evitar promessa de ROI, faturamento, movimento ou numero de clientes.
-- Usar apenas links oficiais `conectaclube.app.br`; nao usar `.com.br` enquanto houver risco de redirect indevido.
+- Usar apenas links oficiais `dominio-oficial.example`; nao usar `.com.br` enquanto houver risco de redirect indevido.
 - Trial reduz risco; nao deve soar como brinde jogado. Posicionar como teste guiado para validar rotina real.
 
 ## Cadencia ate 10/07
@@ -126,7 +126,7 @@ Se o lead pedir implantacao presencial:
 
 1. Perguntar municipio.
 2. Estimar custo de deslocamento/tempo.
-3. Chamar Bruno no WhatsApp com alerta e valor sugerido.
+3. Chamar o responsavel pelo negocio no WhatsApp com alerta e valor sugerido.
 4. Aguardar aprovacao ou ajuste.
 5. Retomar a conversa com o lead usando leitura comportamental e proposta assertiva.
 
