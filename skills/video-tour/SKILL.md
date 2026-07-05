@@ -1,15 +1,15 @@
 ---
-name: "conecta-clube-video-tour"
-description: "Produz vídeos tutoriais e tours guiados do Conecta Clube com análise do SaaS, roteiro, narração por IA, legenda, gravação de tela, takes organizados e pacote pronto para edição."
+name: "video-tour"
+description: "Produz videos tutoriais e tours guiados com analise do SaaS, roteiro, narracao por IA, legenda, gravacao de tela, takes organizados e pacote pronto para edicao."
 ---
 
-# Conecta Clube Video Tour
+# Video Tour
 
 Use para produzir vídeos explicativos, tours de plataforma, tutoriais de funcionalidade, onboarding, vídeos comerciais, treinamentos internos, demonstrações guiadas e materiais com gravação de tela, narração e legenda do Conecta Clube.
 
 ## Dependência obrigatória
 
-Sempre acionar `conecta-clube-text-to-audio` quando o vídeo precisar de narração, legenda, roteiro falado, marcação de tempo, MP3, WAV, SRT ou VTT.
+Sempre acionar `text-to-audio` quando o video precisar de narracao, legenda, roteiro falado, marcacao de tempo, MP3, WAV, SRT ou VTT.
 
 ## Resultado esperado
 
@@ -53,7 +53,7 @@ Criar cenas numeradas com objetivo, tela exibida, ação realizada, trecho de na
 
 ### 6. Gerar narração e legenda
 
-Usar `conecta-clube-text-to-audio` para gerar MP3, WAV quando útil, SRT obrigatório e VTT quando útil. Validar pronúncia, ritmo, clareza, acentuação, gramática, timestamps e UTF-8.
+Usar `text-to-audio` para gerar MP3, WAV quando util, SRT obrigatorio e VTT quando util. Validar pronuncia, ritmo, clareza, acentuacao, gramatica, timestamps e UTF-8.
 
 ### 7. Planejar gravação
 
