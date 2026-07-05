@@ -1,9 +1,9 @@
 ---
-name: "conecta-instagram-prospeccao-organica-ui"
-description: "Instagram: destaque só com story contextual."
+name: "instagram-organic-prospecting-ui"
+description: "Prospeccao organica no Instagram com destaque apenas quando houver story contextual."
 ---
 
-# Instagram Prospecção Orgânica Pela UI - Destaques e Stories Contextuais
+# Instagram Prospeccao Organica UI
 
 ## Regra Obrigatória Para Destaques
 
