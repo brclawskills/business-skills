@@ -1,9 +1,9 @@
 ---
-name: "conecta-suporte-operacao-5s"
-description: "Suporte consultivo Conecta"
+name: "support-operations-5s"
+description: "Suporte consultivo com triagem 5S, orientacao pratica e guardrails de atendimento."
 ---
 
-# Conecta Suporte Operacao 5S
+# Suporte Operacao 5S
 
 Use para estruturar suporte, organizacao operacional, base de conhecimento e limpeza de dados/processos.
 
@@ -33,7 +33,7 @@ Severidade:
 
 ## Atendimento Consultivo Para Inicio De Uso
 
-Quando um cliente perguntar por onde comecar no Conecta, pedir dicas de uso, ou demonstrar duvida ampla sobre implantacao, nao responder com uma lista longa e cansativa de funcionalidades.
+Quando um cliente perguntar por onde comecar no produto, pedir dicas de uso, ou demonstrar duvida ampla sobre implantacao, nao responder com uma lista longa e cansativa de funcionalidades.
 
 Conduzir com perguntas de diagnostico para entender o objetivo real do cliente e o estagio da operacao. O tom deve ser leve, objetivo e prestativo.
 
@@ -79,7 +79,7 @@ Depois investigar, em sequencia, sem transformar em interrogatorio pesado:
 - Adaptar a orientacao ao objetivo declarado do cliente.
 - Se o cliente estiver no inicio, guiar por prioridade: integracoes, pagamentos, fidelidade, catalogo, identidade, base, equipe, uso no chao de loja.
 - Se o cliente ja estiver operando, focar no gargalo informado: venda, recompra, pedido, pagamento, base, campanha ou atendimento.
-- Se a duvida envolver dados sensiveis, pagamentos, contrato, informacao de outro cliente ou acesso privado, nao expor detalhes no chat. Direcionar para contatoconectaclube@gmail.com ou canal oficial apropriado.
+- Se a duvida envolver dados sensiveis, pagamentos, contrato, informacao de outro cliente ou acesso privado, nao expor detalhes no chat. Direcionar para canal oficial de suporte ou canal oficial apropriado.
 
 ## 5S Operacional
 
