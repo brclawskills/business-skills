@@ -1,18 +1,18 @@
-# Padrao Visual Para Criativos Conecta
+# Padrao Visual Para Criativos produto
 
-Use este arquivo quando for gerar artes, templates, capas, Reels, carrosseis ou qualquer criativo visual do Instagram do Conecta.
+Use este arquivo quando for gerar artes, templates, capas, Reels, carrosseis ou qualquer criativo visual do Instagram do produto.
 
 ## Benchmark
 
 Compare sempre com os criativos antigos em:
 
-`conecta-operacao/instagram-organico-100k/canva-upload-brand-assets/criativos_antigos/`
+`operacao-interna/instagram-organico-100k/canva-upload-brand-assets/criativos_antigos/`
 
 Eles servem como benchmark de acabamento, profundidade, brilho, mascote, impacto e percepcao de campanha. Nao copiar texto, promessa ou layout literalmente.
 
 ## O Que Subiu A Regua
 
-Criativo bom para o Conecta deve parecer:
+Criativo bom para o produto deve parecer:
 
 - marca viva, nao documento;
 - comercial, mas sem exagero de anuncio agressivo;
@@ -52,7 +52,7 @@ Pontuar de 1 a 5:
 - Estrategia e dor do ICP
 - Hook/copy
 - Hierarquia e legibilidade
-- Identidade Conecta
+- Identidade produto
 - Acabamento visual
 - Originalidade do layout
 - Potencial de salvamento/compartilhamento
