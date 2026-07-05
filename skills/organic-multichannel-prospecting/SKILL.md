@@ -1,9 +1,9 @@
 ---
-name: "conecta-prospeccao-organica-multicanal"
-description: "Instagram: mapear em volume, comentar com contexto"
+name: "organic-multichannel-prospecting"
+description: "Prospeccao organica multicanal: mapear em volume e comentar com contexto."
 ---
 
-# Atualizacao proposta: prospeccao Instagram por nomes fortes e cadencia separada
+# Prospeccao Organica Multicanal
 
 ## Principio
 
@@ -54,7 +54,7 @@ Comentar so quando o post permitir uma leitura real de negocio, por exemplo:
 - experiencia no local;
 - campanha de data comemorativa.
 
-Nao usar link, nao pedir DM frio, nao falar do Conecta no primeiro comentario. O comentario deve parecer uma observacao de negocio util.
+Nao usar link, nao pedir DM frio, nao falar do produto no primeiro comentario. O comentario deve parecer uma observacao de negocio util.
 
 ## Registro obrigatorio
 
