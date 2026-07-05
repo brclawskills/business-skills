@@ -1,13 +1,13 @@
 ---
-name: "conecta-erp-mensuracao-agentes"
-description: "Agentes registram operacao no ERP"
+name: "erp-agent-measurement"
+description: "Agentes registram operacao no ERP com evidencias, metricas e rastreabilidade."
 ---
 
-# Conecta ERP Mensuracao de Agentes
+# ERP Mensuracao de Agentes
 
 ## Objetivo
 
-Usar o ERP local como sistema de registro operacional para tudo que os agentes executam no Conecta. Relatorios em Markdown, memoria e mensagens de chat ajudam o contexto, mas nao substituem o ERP quando a acao gera dado mensuravel, status de processo, pendencia, risco, contato, experimento ou resultado.
+Usar o ERP local como sistema de registro operacional para tudo que os agentes executam no produto. Relatorios em Markdown, memoria e mensagens de chat ajudam o contexto, mas nao substituem o ERP quando a acao gera dado mensuravel, status de processo, pendencia, risco, contato, experimento ou resultado.
 
 ## Regra central
 
@@ -50,7 +50,7 @@ Usar estes recursos do ERP conforme o tipo de dado:
 - `documents`: contratos, politicas, playbooks, checklists e materiais que precisam revisao/aprovacao.
 - `accesses`: ferramentas, responsaveis, revisao de acesso, 5S e dependencia operacional.
 - `tickets`: suporte, incidentes, bugs, severidade e resolucao.
-- `conectaEvents`, `conectaMerchants`, `conectaOrders`, `paymentEvents`: eventos vindos do Conecta, sincronizacoes e pagamentos.
+- `productEvents`, `businessAccounts`, `commerceOrders`, `paymentEvents`: eventos vindos do produto, sincronizacoes e pagamentos.
 - `cnpjEnrichments`: enriquecimento CNPJ.ws e contexto cadastral.
 
 ## Padrao minimo de registro
