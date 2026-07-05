@@ -1,13 +1,13 @@
 ---
-name: "conecta-commercial-os"
-description: "Criativo orientado a conversao."
+name: "commercial-conversion-os"
+description: "Sistema comercial para criativos, cadencias, CRM, handoff e conversao com guardrails."
 ---
 
-# Conecta Commercial OS - Criativos E Curadoria
+# Commercial OS - Criativos e Curadoria
 
 ## Objetivo
 
-Todo conteudo do Conecta deve nascer para chamar atencao, prender por valor real, gerar relacionamento organico e apoiar conversao direta ou indireta.
+Todo conteudo do produto deve nascer para chamar atencao, prender por valor real, gerar relacionamento organico e apoiar conversao direta ou indireta.
 
 A meta nao e publicar por volume. A meta e produzir criativos que ajudem o algoritmo, o publico e o comercial ao mesmo tempo.
 
@@ -29,7 +29,7 @@ Criativos devem cumprir uma ou mais funcoes:
 - fidelizar publico organico mesmo que ainda nao pagante;
 - preparar venda de ebooks, checklists, infoprodutos, diagnosticos, trials ou planos;
 - abrir possibilidade de indicacao de parceiros por stories, Reels ou posts;
-- criar autoridade do Conecta como ferramenta e como fonte de inteligencia para comercio local.
+- criar autoridade do produto como ferramenta e como fonte de inteligencia para comercio local.
 
 ## Supervisor De Marketing E Criativos
 
@@ -43,7 +43,7 @@ Responsabilidades:
 - garantir que o conteudo prenda por insight, dor ou curiosidade legitima;
 - garantir que o conteudo fale com donos/gestores de negocios locais;
 - validar se a dor aparece antes da feature;
-- validar se o Conecta aparece como caminho natural;
+- validar se o produto aparece como caminho natural;
 - checar se o CTA e claro e mensuravel;
 - checar risco de promessa exagerada;
 - checar leitura mobile e conforto visual;
@@ -62,7 +62,7 @@ Antes de liberar, responder:
 - O conteudo ensina algo util ou so faz propaganda?
 - Existe tensao, curiosidade, contraste ou insight memoravel?
 - O CTA pede uma acao clara: salvar, comentar, responder, pedir checklist, chamar DM ou clicar?
-- O mecanismo do Conecta esta claro sem empurrar plano em todo post?
+- O mecanismo do produto esta claro sem empurrar plano em todo post?
 - O conteudo gera sinal comercial ou aprendizado medivel?
 - A legenda esta no campo correto, fora da arte?
 - Existe risco de promessa de ROI, faturamento, payback ou resultado garantido?
@@ -79,10 +79,10 @@ Linhas permitidas:
 - diagnosticos gratuitos ou pagos;
 - indicacao de parceiros complementares quando houver sinergia e protecao comercial;
 - stories com enquete/caixa de pergunta para qualificar dores;
-- Reels educativos que criem demanda para Conecta;
+- Reels educativos que criem demanda para produto;
 - posts salvaveis que aumentem autoridade.
 
-Guardrail: o conteudo pode entregar valor, mas nao deve entregar uma solucao que substitua o Conecta ou leve naturalmente para concorrente.
+Guardrail: o conteudo pode entregar valor, mas nao deve entregar uma solucao que substitua o produto ou leve naturalmente para concorrente.
 
 ## Status De Revisao
 
@@ -91,7 +91,7 @@ Cada peca deve sair com um dos status:
 - APROVADO: pode publicar/agendar.
 - APROVADO COM AJUSTE: corrigir pontos objetivos e entao publicar/agendar.
 - REPROVADO: refazer antes de publicar.
-- ESCALAR BRUNO: exige decisao humana por oferta, risco, cliente real, campanha paga, comparacao, juridico/fiscal, parceiro, ebook pago, low ticket, publicacao sensivel ou mudanca comercial.
+- ESCALAR RESPONSAVEL: exige decisao humana por oferta, risco, cliente real, campanha paga, comparacao, juridico/fiscal, parceiro, ebook pago, low ticket, publicacao sensivel ou mudanca comercial.
 
 ## Saida De Curadoria
 
@@ -118,5 +118,5 @@ Cada peca deve sair com um dos status:
 - Nao depender de legenda/hashtag para explicar a peca.
 - Nao publicar conteudo que so faz propaganda sem insight.
 - Nao usar promessa de ROI, faturamento, payback ou resultado garantido.
-- Nao publicar/aprovar indicacao de parceiro, ebook pago ou campanha comercial sensivel sem Bruno quando houver risco financeiro, juridico ou reputacional.
-- Nao recriar, aproximar ou distorcer a logo do Conecta por IA.
+- Nao publicar/aprovar indicacao de parceiro, ebook pago ou campanha comercial sensivel sem aprovacao do responsavel pelo negocio quando houver risco financeiro, juridico ou reputacional.
+- Nao recriar, aproximar ou distorcer a logo do produto por IA.
