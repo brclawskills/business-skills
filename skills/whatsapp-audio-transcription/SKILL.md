@@ -25,7 +25,7 @@ Use quando uma mensagem chegar com:
 5. Transcrever com a melhor ferramenta disponivel.
 6. Ler a transcricao antes de responder.
 7. Se a transcricao estiver incerta, dizer isso brevemente ao dono/admin e pedir esclarecimento apenas do trecho duvidoso.
-8. Se for conversa comercial do Conecta, responder conforme o playbook comercial ativo e mensagens aprovadas.
+8. Se for conversa comercial do produto, responder conforme o playbook comercial ativo e mensagens aprovadas.
 9. Se falhar por midia expirada, ausente, grande, criptografada ou inacessivel, fazer uma tentativa segura de recuperacao; se continuar bloqueado, explicar ao dono/admin sem expor stack trace, nomes de ferramentas ou detalhes internos a leads externos.
 
 ## Regras
