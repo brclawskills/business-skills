@@ -8,6 +8,8 @@ Este arquivo orienta como preparar e operar a skill `organic-multichannel-prospe
 - Acesso autorizado ao Instagram Web, Meta Business Suite ou Canva, conforme o fluxo.
 - Lista de segmentos, pracas, hashtags, perfis-alvo, limites diarios e criterio de opt-out.
 - Registro operacional para salvar evidencias, interacoes, bloqueios e proximos passos.
+- CRM/ERP com campos para fonte, CNPJ, score, status, proximo passo e evidencias.
+- Politica definida para uso de dados publicos, CNPJ.ws, Google Search e Google Places.
 
 ## Ferramentas e acessos necessarios
 
@@ -15,6 +17,9 @@ Este arquivo orienta como preparar e operar a skill `organic-multichannel-prospe
 - Canva quando houver criacao, revisao ou agendamento de criativos.
 - Planilha, CRM ou ERP para registrar handles, status, temperatura e follow-up.
 - Ferramenta de busca/pesquisa para mapear concorrentes, hashtags e perfis locais.
+- Google Search via navegador para descoberta e validacao manual.
+- Google Places API quando houver chave, billing e permissao do negocio.
+- CNPJ.ws API publica para enriquecer CNPJs ja encontrados com confianca.
 
 ## Sugestao de cron
 
@@ -22,6 +27,9 @@ Este arquivo orienta como preparar e operar a skill `organic-multichannel-prospe
 - Rotina organica: blocos curtos de 30 a 60 minutos, com limite de acoes por conta.
 - Inteligencia de concorrencia: semanal ou quinzenal.
 - Nunca criar cron que curta, siga, comente ou envie DM sem limite claro, aprovacao e criterio de parada.
+- Descoberta de leads por Search/Places: diaria ou 2 a 3 vezes por semana, sem abordagem automatica.
+- Enriquecimento CNPJ.ws: em lotes pequenos, com rate limit e registro de falhas.
+- Higiene do CRM: semanal para deduplicar, revisar bloqueios e leads sem proximo passo.
 
 ## Atividades indicadas
 

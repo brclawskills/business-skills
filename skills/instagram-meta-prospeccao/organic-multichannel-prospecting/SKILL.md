@@ -5,6 +5,14 @@ description: "Prospeccao organica multicanal: mapear em volume e comentar com co
 
 # Prospeccao Organica Multicanal
 
+## Playbook operacional
+
+Para captacao, enriquecimento, qualificacao e entrada de leads no CRM, use o playbook:
+
+- `references/playbook-captacao-qualificacao-crm.md`
+
+Ele cobre descoberta por Google Search/Google Places, enriquecimento via CNPJ.ws, deduplicacao, score de fit, status de CRM, registro de evidencias e sugestoes de cron.
+
 ## Principio
 
 Separar mapeamento de interacao publica.
@@ -64,3 +72,19 @@ Registrar tambem os perfis apenas mapeados/seguidos, com motivo quando nao comen
 - sem contexto comercial claro;
 - ja houve comentarios suficientes na janela;
 - perfil bom para proxima rodada.
+
+## Saida minima por lead
+
+Cada lead mapeado precisa sair com dados suficientes para decisao, nao apenas com um perfil solto:
+
+- nome publico do negocio;
+- segmento e cidade/UF;
+- fonte de descoberta;
+- URL de evidencia: Google Maps, site, Instagram, busca ou diretorio;
+- CNPJ, quando encontrado com confianca;
+- telefone, WhatsApp, email, site ou Instagram, quando publicos;
+- score de fit;
+- motivo do score;
+- status no CRM;
+- proximo passo recomendado;
+- motivo para nao abordar agora, quando aplicavel.

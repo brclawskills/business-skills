@@ -7,7 +7,17 @@ description: "Plano comercial para primeira venda, trial, diagnostico, checkout 
 
 ## Objetivo
 
-Buscar 10 clientes em qualquer plano ate 10/07, partindo da validacao de 1 primeiro cliente ou trial qualificado em 03/07.
+Criar um plano de primeira venda ou primeiro lote de trials qualificados, partindo de meta configuravel, prazo definido pelo responsavel comercial e criterios claros de validacao.
+
+Antes de executar, definir:
+
+- meta de clientes pagos ou trials qualificados;
+- prazo da campanha;
+- segmentos prioritarios;
+- oferta/trial vigente;
+- criterio de sucesso;
+- limite operacional de implantacao e suporte;
+- responsavel humano por aprovar preco, desconto, checkout e excecoes.
 
 Contar como conversao operacional valida:
 
@@ -45,16 +55,16 @@ Pontos de risco a revisar com o responsavel pelo negocio quando aparecerem:
 - Usar apenas links oficiais `dominio-oficial.example`; nao usar `.com.br` enquanto houver risco de redirect indevido.
 - Trial reduz risco; nao deve soar como brinde jogado. Posicionar como teste guiado para validar rotina real.
 
-## Cadencia ate 10/07
+## Cadencia de 7 dias adaptavel
 
-### Sexta 03/07 - validacao da maquina
+### Dia 1 - validacao da maquina
 
 Metas:
 
 - 1 cliente/trial qualificado com implantacao marcada ou feita.
 - 10 conversas qualificadas.
 - 3 diagnosticos completos.
-- 1 revisao de oferta apos objeções reais.
+- 1 revisao de oferta apos objecoes reais.
 
 Prioridade:
 
@@ -63,30 +73,28 @@ Prioridade:
 3. Perfis que interagiram organicamente com comentario, curtida, follow-back, DM ou story.
 4. Novos leads apenas para alimentar topo, sem substituir conversao.
 
-### Sabado 04/07 - replicar o que funcionou
+### Dia 2 - replicar o que funcionou
 
 Metas:
 
 - +1 cliente/trial.
-- Repetir melhor segmento/regiao/mensagem da sexta.
-- Usar varejo e alimentacao com gancho de fim de semana, sem exagerar urgencia.
+- Repetir melhor segmento, regiao ou mensagem do dia anterior.
+- Usar contexto real do segmento, sem exagerar urgencia.
 
-### Domingo 05/07 - monitoramento leve e preparo
+### Dia 3 - monitoramento leve e preparo
 
 - Sem volume agressivo.
 - Monitorar respostas e sinais.
-- Organizar lista de segunda-feira.
-- Ajustar scripts conforme aprendizados de sexta/sabado.
+- Organizar lista do proximo bloco comercial.
+- Ajustar scripts conforme aprendizados dos dias anteriores.
 
-### Segunda 06/07 a sexta 10/07 - escala controlada
+### Dias 4 a 7 - escala controlada
 
 Meta base:
 
-- Segunda: chegar a 4 clientes/trials acumulados.
-- Terca: chegar a 6.
-- Quarta: chegar a 8.
-- Quinta: chegar a 9.
-- Sexta: chegar a 10.
+- Definir alvo acumulado por dia conforme capacidade real de vendas, implantacao e suporte.
+- Aumentar volume somente quando a qualidade de conversa e implantacao estiver sob controle.
+- Pausar escala se houver promessa insegura, suporte sem dono, gargalo de checkout ou queda de qualidade dos leads.
 
 Se a conversao cair, nao aumentar volume cegamente. Diagnosticar gargalo:
 

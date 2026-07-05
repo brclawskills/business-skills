@@ -67,6 +67,89 @@ Todo registro novo ou alterado deve conter, quando aplicavel:
 
 Evitar campos vagos como "ver depois" sem criterio. Preferir "conferir no telefone antes de responder", "aguardar resposta humana", "bloqueado por captcha", "validar CNPJ antes de abordagem".
 
+## Prospects: captacao e enriquecimento
+
+Quando a tarefa envolver captacao, enriquecimento ou qualificacao de leads, o agente deve registrar o lead como entidade operacional, nao como nota solta.
+
+Campos recomendados para `prospects`:
+
+- `businessName`: nome publico.
+- `legalName`: razao social, quando confirmada.
+- `cnpj`: somente se confirmado ou explicitamente marcado como incerto.
+- `cnpjStatus`: `confirmed`, `unconfirmed`, `not_found`, `failed` ou `not_applicable`.
+- `segment`: segmento comercial.
+- `city` e `state`.
+- `source`: origem principal, como `google_places`, `google_search`, `instagram`, `site`, `directory`, `referral`.
+- `sources`: lista de URLs/evidencias usadas.
+- `googlePlaceId`, quando houver.
+- `instagramHandle`, quando houver.
+- `website`, `phone`, `whatsapp`, `email`, quando publicos.
+- `fitScore`: 0 a 100.
+- `fitReason`: motivo curto do score.
+- `status`: etapa atual do CRM.
+- `nextStep`: proximo passo acionavel.
+- `owner`: agente, area ou responsavel.
+- `risk`: risco ou bloqueio relevante.
+- `lastCheckedAt`: data/hora da ultima validacao.
+
+Status recomendados:
+
+- `discovered`: encontrado, ainda sem enriquecimento suficiente.
+- `enriched`: dados publicos coletados.
+- `qualified`: fit suficiente para proximo passo.
+- `contact-ready`: canal e abordagem definidos.
+- `contacted`: primeira interacao registrada.
+- `responded`: houve resposta.
+- `opportunity`: virou conversa comercial real.
+- `discarded`: sem fit, duplicado, fechado, opt-out ou risco.
+- `blocked`: precisa aprovacao, revisao humana, captcha, limite ou dado ausente.
+
+## Exemplo de payload de prospect
+
+```json
+{
+  "businessName": "Nome publico do negocio",
+  "legalName": "Razao social confirmada",
+  "cnpj": "00000000000100",
+  "cnpjStatus": "confirmed",
+  "segment": "restaurante",
+  "city": "Cidade",
+  "state": "UF",
+  "source": "google_places",
+  "sources": [
+    {
+      "type": "google_maps",
+      "url": "https://maps.google.com/...",
+      "checkedAt": "2026-01-01T12:00:00-03:00"
+    }
+  ],
+  "googlePlaceId": "place_id",
+  "instagramHandle": "@perfil",
+  "website": "https://site.example",
+  "phone": "+55...",
+  "whatsapp": "+55...",
+  "fitScore": 82,
+  "fitReason": "Segmento recorrente, canal publico ativo e sinais de recompra.",
+  "status": "qualified",
+  "nextStep": "Preparar primeira interacao contextual.",
+  "risk": "none",
+  "owner": "sdr-agent"
+}
+```
+
+## Deduplicacao obrigatoria
+
+Antes de criar prospect novo, procurar duplicado por:
+
+- CNPJ;
+- Google Place ID;
+- telefone/WhatsApp;
+- dominio do site;
+- Instagram handle;
+- nome + cidade + endereco.
+
+Se duplicado existir, atualizar o registro existente e anexar a nova evidencia. Nao criar lead paralelo.
+
 ## WhatsApp: regra especifica
 
 O ERP nao deve assumir que `unread` local e igual a pendencia real no telefone. Para WhatsApp:

@@ -5,6 +5,23 @@ description: "Abordagem comercial segura quando o primeiro contato nao e decisor
 
 # Sales Agent
 
+## Entrada antes da abordagem
+
+Nao iniciar conversa comercial a partir de um nome solto. Antes do primeiro toque, o lead deve ter no CRM:
+
+- nome do negocio;
+- segmento;
+- cidade/UF;
+- fonte de descoberta;
+- evidencia publica;
+- status de qualificacao;
+- score ou motivo de fit;
+- canal recomendado;
+- proximo passo;
+- risco ou restricao, quando houver.
+
+Se faltar dado essencial, voltar para enriquecimento ou revisao humana antes de abordar.
+
 ## Quando O Primeiro Contato Nao For Decisor
 
 Objetivo: chegar ao decisor sem vender para a pessoa errada, sem descartar cedo demais e sem transformar a conversa em pitch frio.
@@ -33,3 +50,46 @@ Descartar somente quando houver uma das condicoes: numero errado, opt-out claro,
 Trava anti-erro adicional:
 
 Antes de descartar um lead por nao falar com decisor, perguntar: `Eu tentei descobrir quem decide, qual dor existe ou qual melhor caminho interno, sem insistir de forma invasiva?` Se a resposta for nao, ainda nao descartar.
+
+## Da qualificacao ao primeiro contato
+
+1. Ler o resumo do lead no CRM.
+2. Confirmar que o canal e permitido para abordagem.
+3. Escolher uma dor provavel do segmento, baseada em evidencia publica.
+4. Escrever uma primeira mensagem curta com contexto, sem pitch completo.
+5. Fazer uma pergunta diagnostica.
+6. Registrar mensagem sugerida em CRM/draft quando houver aprovacao humana pendente.
+7. Apos resposta, atualizar status, objeção, temperatura e proximo passo.
+
+Modelo de primeira mensagem:
+
+```text
+Oi, tudo bem? Vi que voces trabalham com <sinal publico observado>. Normalmente nesse tipo de operacao aparece uma duvida: voces conseguem acompanhar quem comprou/visitou uma vez e depois sumiu, ou isso fica mais no feeling/WhatsApp?
+```
+
+Modelo quando o contato nao e decisor:
+
+```text
+Perfeito. Quem costuma olhar essa parte ai: dono, gerente, marketing ou atendimento? Quero falar com a pessoa certa para nao te tomar tempo.
+```
+
+Modelo quando pedir contexto:
+
+```text
+E sobre melhorar retorno de clientes e organizar uma rotina simples de recompra/reativacao. Antes de te explicar qualquer coisa, como voces fazem hoje para identificar cliente parado?
+```
+
+## Registro apos cada interacao
+
+Atualizar no CRM:
+
+- `lastContactAt`;
+- `channel`;
+- `messageSummary`;
+- `responseSummary`;
+- `status`;
+- `temperature`;
+- `objection`;
+- `nextStep`;
+- `nextContactAt`;
+- `discardReason`, quando aplicavel.
