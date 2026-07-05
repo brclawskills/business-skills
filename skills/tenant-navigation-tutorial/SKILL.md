@@ -1,11 +1,11 @@
 ---
-name: "conecta-tutorial-tenant-navegacao"
-description: "Tutorial painel tenant Conecta."
+name: "tenant-navigation-tutorial"
+description: "Tutorial de navegacao em painel tenant/SaaS: checkout, onboarding, dashboard e configuracao."
 ---
 
-# Conecta Tutorial Tenant Navegacao
+# Tutorial Tenant Navegacao
 
-Use quando precisar demonstrar, gravar, revisar ou explicar o fluxo de empresa tenant cliente assinante do Conecta Clube: cadastro no checkout, onboarding modular, dashboard, configuracao inicial, catalogo, cliente, produto, recompensa, pontos e integracoes.
+Use quando precisar demonstrar, gravar, revisar ou explicar o fluxo de empresa tenant cliente assinante do produto: cadastro no checkout, onboarding modular, dashboard, configuracao inicial, catalogo, cliente, produto, recompensa, pontos e integracoes.
 
 ## Guardrails
 
@@ -13,12 +13,12 @@ Use quando precisar demonstrar, gravar, revisar ou explicar o fluxo de empresa t
 - Nao autenticar ERP, gateway, WhatsApp, Instagram, Facebook ou marketplace real durante tutorial basico.
 - Nao mostrar senhas em video ou resposta.
 - Se precisar reutilizar um tenant de teste, ler a credencial em arquivo de secrets fora da memoria comum e nunca publicar esse caminho ou conteudo.
-- Para pagamento, deixar claro que o checkout abre no Asaas; em simulacao, voltar ao Conecta sem pagar.
+- Para pagamento, deixar claro que o checkout abre no Asaas; em simulacao, voltar ao produto sem pagar.
 - Nao prometer conectores externos que nao aparecem no painel. No fluxo observado, "e-commerce" pratico e o Catalogo digital; gateway ativo e Asaas; ERP ativo e Bling.
 
 ## Fluxo De Cadastro E Onboarding
 
-1. Acessar `https://www.conectaclube.app.br`; confirmar redirecionamento para `https://conectaclube.app.br`.
+1. Acessar `https://www.dominio-oficial.example`; confirmar redirecionamento para `https://dominio-oficial.example`.
 2. Ir em Planos e escolher Performance, ou abrir `/checkout?plan=performance&interval=monthly`.
 3. Preencher cadastro publico:
    - Responsavel
@@ -29,7 +29,7 @@ Use quando precisar demonstrar, gravar, revisar ou explicar o fluxo de empresa t
    - WhatsApp
    - CPF/CNPJ opcional
 4. Criar conta e ir ao checkout.
-5. Ao cair no Asaas, nao pagar em simulacao; voltar para `https://conectaclube.app.br/login`.
+5. Ao cair no Asaas, nao pagar em simulacao; voltar para `https://dominio-oficial.example/login`.
 6. Entrar com a conta criada se necessario.
 7. Concluir onboarding modular:
    - Etapa 1 ERP: selecionar Bling.
