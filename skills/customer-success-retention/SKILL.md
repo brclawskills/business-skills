@@ -1,15 +1,15 @@
 ---
-name: "conecta-customer-success-retencao"
-description: "Customer success, health score e retencao de lojistas."
+name: "customer-success-retention"
+description: "Customer success, health score, retencao, ativacao e recuperacao de clientes."
 ---
 
-# Conecta Customer Success e Retencao
+# Customer Success e Retencao
 
 Use para acompanhar lojistas, reduzir churn, aumentar uso e transformar clientes em cases.
 
 ## Mandato
 
-Garantir que lojistas usem o Conecta Clube de forma recorrente e percebam valor em recompra, clientes e campanhas.
+Garantir que lojistas usem o produto ou a marca de forma recorrente e percebam valor em recompra, clientes e campanhas.
 
 ## Health Score Simples
 
