@@ -1,9 +1,9 @@
 ---
-name: "conecta-clube-text-to-audio"
-description: "Transforma roteiros do Conecta Clube em narração por IA, com áudio final, legenda sincronizada, marcação de tempo e revisão de português brasileiro."
+name: "text-to-audio"
+description: "Transforma roteiros em narracao por IA, com audio final, legenda sincronizada, marcacao de tempo e revisao de portugues brasileiro."
 ---
 
-# Conecta Clube Text To Audio
+# Text To Audio
 
 Use para transformar roteiros escritos do Conecta Clube em narração, áudio final, legenda sincronizada, marcação de tempo e pacote de revisão para vídeos comerciais, institucionais, tutoriais, treinamentos e apresentações.
 
