@@ -1,9 +1,9 @@
 ---
-name: "conecta-operacao-autonoma-aprendizado"
-description: "Execucao atomica sem metade"
+name: "autonomous-operation-learning"
+description: "Operacao autonoma com execucao atomica, aprendizado e registro sem entregar pela metade."
 ---
 
-# Atualizacao: Missao Atomica e Fechamento Mensuravel
+# Operacao Autonoma e Aprendizado
 
 ## Regra central
 
@@ -46,6 +46,6 @@ Ao encerrar, responder sempre:
 - Deixar job grande rodando sem checkpoint e sem retomada.
 - Dizer "feito" quando falta parte do criterio de aceite.
 
-## Aplicacao imediata ao Conecta
+## Aplicacao imediata ao negocio
 
 Para sprint comercial, cada bloco deve fechar com contagem real por tipo: follows, likes, comentarios, DMs, WhatsApp, respostas e bloqueios. O ERP e a memoria devem bater. Se o browser ou cron travar, dividir em microlotes e concluir/registrar cada lote antes de seguir.
