@@ -1,25 +1,25 @@
 ---
-name: "conecta-blog-publicacao-artigos"
-description: "Publicar artigos SEO no blog do Conecta."
+name: "seo-blog-publication"
+description: "Publicar artigos SEO a partir de dores reais, mecanismo do produto e CTA honesto."
 ---
 
-# Conecta Blog Publicacao de Artigos
+# SEO Blog Publicacao de Artigos
 
 ## Objetivo
 
-Publicar artigos uteis e indexaveis no blog do Conecta Clube em `https://conectaclube.app.br/blog`, sempre partindo de uma dor real do varejo local e conectando essa dor a uma solucao que o Conecta realmente atende.
+Publicar artigos uteis e indexaveis no blog do produto em `https://dominio-oficial.example/blog`, sempre partindo de uma dor real do varejo local e conectando essa dor a uma solucao que o produto realmente atende.
 
 O artigo deve ensinar o lojista a levar a ideia para a pratica, nao apenas explicar conceitos de marketing.
 
 ## Guardrails
 
-- Usar somente o dominio oficial `https://conectaclube.app.br` em links, canonical, sitemap e CTAs.
-- Nao usar `conectaclube.com.br` em copy comercial ou SEO enquanto houver risco de rota divergente.
+- Usar somente o dominio oficial `https://dominio-oficial.example` em links, canonical, sitemap e CTAs.
+- Nao usar `dominio-alternativo.example` em copy comercial ou SEO enquanto houver risco de rota divergente.
 - Nao prometer resultado garantido, aumento percentual garantido, conformidade juridica absoluta ou integracao inexistente.
 - Nao inventar clientes, cases, numeros internos, depoimentos ou marcas parceiras.
 - Nao publicar dados privados, prints internos, segredos, credenciais, logs sensiveis ou informacoes de lojistas sem autorizacao explicita.
 - Usar a logo oficial apenas se a peca exigir marca. Para capas editoriais de artigos, preferir imagem sem logo e sem texto.
-- Nunca recriar a logo do Conecta por IA.
+- Nunca recriar a logo do produto por IA.
 - Tratar senha de VPS e tokens como segredo: usar variaveis de ambiente quando disponiveis, nao registrar em arquivos, memoria ou resposta.
 - Nao escrever artigo generico que poderia servir para qualquer SaaS. O texto precisa soar como alguem que entende loja, caixa, equipe, margem, cliente e rotina.
 
@@ -30,7 +30,7 @@ Antes de escrever, formular a tese do artigo em 5 blocos:
 1. Dor real do varejo: qual problema aparece na rotina da loja?
 2. Cenario concreto: onde isso acontece no dia a dia? Balcao, caixa, WhatsApp, agenda, estoque, campanha, atendimento, pos-venda ou fechamento do mes.
 3. Consequencia economica: o que a dor custa? Cliente esquecido, recompra perdida, margem corroída, desconto demais, equipe sem rotina, base parada, dependencia de anuncio ou falta de medicao.
-4. Mecanismo Conecta: qual capacidade do Conecta ajuda? Clube, pontos, cashback, recompensas, cadastro de clientes, campanhas, CRM, segmentacao, clientes inativos, QR/link no balcao, relatorios ou rotina de acompanhamento.
+4. Mecanismo do produto: qual capacidade do produto ajuda? Clube, pontos, cashback, recompensas, cadastro de clientes, campanhas, CRM, segmentacao, clientes inativos, QR/link no balcao, relatorios ou rotina de acompanhamento.
 5. Como aplicar: quais passos o lojista pode executar esta semana?
 
 Se um artigo nao tiver esses 5 blocos, revisar antes de publicar.
@@ -54,9 +54,9 @@ Use essas dores como ponto de partida e adapte ao segmento:
 - Campanhas sao feitas para todo mundo igual, sem segmentar por comportamento.
 - Falta rotina de pos-venda: ninguem mede adesao, recompra ou resgate.
 
-## Capacidades do Conecta a mapear com honestidade
+## Capacidades do produto a mapear com honestidade
 
-Ao conectar a dor com o Conecta, use apenas capacidades coerentes com o produto e o que foi validado no contexto:
+Ao conectar a dor com o produto, use apenas capacidades coerentes com o produto e o que foi validado no contexto:
 
 - Clube de fidelidade para fazer quem ja comprou voltar.
 - Pontos, cashback e recompensas com regra clara.
@@ -67,7 +67,7 @@ Ao conectar a dor com o Conecta, use apenas capacidades coerentes com o produto 
 - Sinais de recompra, resgate, inatividade e engajamento quando disponiveis.
 - Rotina de acompanhamento para o lojista e equipe.
 
-Nao transformar o Conecta em ERP completo, automacao ilimitada, consultoria juridica, garantia de vendas ou integracao que nao foi confirmada.
+Nao transformar o produto em ERP completo, automacao ilimitada, consultoria juridica, garantia de vendas ou integracao que nao foi confirmada.
 
 ## Estrutura recomendada do artigo
 
@@ -76,9 +76,9 @@ Nao transformar o Conecta em ERP completo, automacao ilimitada, consultoria juri
 3. Custo invisivel: mostrar o impacto em recompra, margem, base de clientes ou tempo.
 4. Principio de solucao: explicar o mecanismo antes da ferramenta.
 5. Aplicacao pratica: passos concretos para implantar.
-6. Onde o Conecta entra: conectar com funcionalidades reais sem exagero.
+6. Onde o produto entra: conectar com funcionalidades reais sem exagero.
 7. Checklist ou mini-plano: algo que o lojista possa usar esta semana.
-8. Conclusao com CTA natural para conhecer o Conecta Clube.
+8. Conclusao com CTA natural para conhecer o produto ou a marca.
 
 ## Pauta e SEO
 
@@ -89,13 +89,13 @@ Para cada artigo, definir:
 - Palavra-chave principal.
 - Palavra-chave secundaria ou pergunta relacionada.
 - Persona: dono, gerente ou responsavel por marketing de loja local.
-- Mecanismo Conecta que resolve parte da dor.
+- Mecanismo do produto que resolve parte da dor.
 - Passo pratico que o leitor consegue aplicar.
 - Titulo SEO com promessa clara e sem exagero.
 - Meta description entre 120 e 155 caracteres quando possivel.
 - Slug curto em portugues sem acentos.
 - Estrutura H1, H2 e H3 escaneavel.
-- CTA discreto para conhecer o Conecta Clube, sem soar como anuncio.
+- CTA discreto para conhecer o produto ou a marca, sem soar como anuncio.
 
 Temas bons devem unir dor + pratica, por exemplo:
 
@@ -120,7 +120,7 @@ Temas bons devem unir dor + pratica, por exemplo:
 - Tamanho recomendado: 900 a 1500 palavras, ajustando ao tema.
 - Manter tom profissional, confiavel e acionavel.
 - Incluir links internos para artigos relacionados do blog quando fizer sentido.
-- Incluir CTA natural no final para o Conecta Clube.
+- Incluir CTA natural no final para o produto ou a marca.
 
 ## Blocos praticos obrigatorios
 
@@ -142,7 +142,7 @@ Usar `image_generate` com `openai/gpt-image-2` quando disponivel para gerar capa
 Prompt-base para capa:
 
 ```text
-Use case: editorial blog cover image for a Brazilian SaaS website about loyalty, cashback, CRM and customer repurchase for local businesses. Style: polished editorial 3D illustration with subtle realistic materials, modern SaaS/business visual language, premium but approachable. Scene: [descrever a dor real e o mecanismo do artigo: loja local, balcao, cliente retornando, CRM simples, recompensa, margem ou campanha]. Composition: wide landscape hero cover, clean central visual, enough negative space, no UI screenshots, no clutter. Palette: Conecta-inspired dark graphite, clean white, emerald green accents, small warm yellow highlights; balanced and not dominated by a single color. Lighting: bright, trustworthy, optimistic, professional. Text: none. Constraints: no text, no letters, no numbers, no logos, do not recreate the Conecta Clube logo, no watermark, no identifiable faces, no fake brand names, no distorted signage.
+Use case: editorial blog cover image for a Brazilian SaaS website about loyalty, cashback, CRM and customer repurchase for local businesses. Style: polished editorial 3D illustration with subtle realistic materials, modern SaaS/business visual language, premium but approachable. Scene: [descrever a dor real e o mecanismo do artigo: loja local, balcao, cliente retornando, CRM simples, recompensa, margem ou campanha]. Composition: wide landscape hero cover, clean central visual, enough negative space, no UI screenshots, no clutter. Palette: brand-inspired dark graphite, clean white, emerald green accents, small warm yellow highlights; balanced and not dominated by a single color. Lighting: bright, trustworthy, optimistic, professional. Text: none. Constraints: no text, no letters, no numbers, no logos, do not recreate the produto ou marca logo, no watermark, no identifiable faces, no fake brand names, no distorted signage.
 ```
 
 Depois de gerar:
@@ -176,8 +176,8 @@ O codigo pode mudar, entao sempre inspecionar antes. Em geral:
 ## Deploy
 
 - Fazer backup antes de alterar producao quando mexer direto na VPS.
-- Preferir fluxo ja usado no Conecta: local ou producao, conforme o estado real do projeto.
-- VPS conhecida do Conecta: `212.85.2.175`; app Docker Compose em `/opt/conecta-clube`; container publico `conecta-clube-app`.
+- Preferir fluxo ja usado no produto: local ou producao, conforme o estado real do projeto.
+- Usar apenas o ambiente, dominio e pipeline informados pelo negocio antes da publicacao. Nunca inferir servidor, container ou credencial.
 - Nao assumir que rebuild funciona. Se `docker compose build app` falhar por imagem base ausente, nao mascarar o problema.
 - Se for necessario hotfix de asset no container, aplicar tambem no codigo-fonte para sobreviver ao proximo rebuild.
 - Nao deixar imagens diferentes com o mesmo conteudo; validar hashes antes e depois.
@@ -186,7 +186,7 @@ O codigo pode mudar, entao sempre inspecionar antes. Em geral:
 
 Depois do deploy, validar:
 
-- `https://conectaclube.app.br/healthz` retorna OK.
+- Validar saude do site com o endpoint de health check configurado pelo projeto, quando existir.
 - `/blog` retorna `200`.
 - URL do artigo retorna `200`.
 - Imagem da capa retorna `200 image/webp`.
@@ -199,7 +199,7 @@ Depois do deploy, validar:
 
 Ao finalizar:
 
-- Registrar em memoria diaria ou arquivo operacional: data, dor trabalhada, mecanismo Conecta, slug, palavra-chave, URL, imagem e validacoes principais.
+- Registrar em memoria diaria ou arquivo operacional: data, dor trabalhada, mecanismo produto, slug, palavra-chave, URL, imagem e validacoes principais.
 - Responder ao usuario com URLs publicadas e uma nota curta de validacao.
 - Se algo falhar, informar exatamente o que foi publicado, o que ficou pendente e o risco.
 
@@ -211,6 +211,6 @@ Quando a execucao vier de uma tarefa diaria:
 - Tarde: publicar um artigo mais pratico/comercial/meio-fundo de funil, sempre com passo a passo ou checklist de aplicacao.
 - Nao publicar dois artigos com o mesmo tema no mesmo dia.
 - Nao repetir slugs existentes.
-- Se o tema escolhido nao mapear para dor real + mecanismo Conecta + aplicacao pratica, escolher outro tema.
+- Se o tema escolhido nao mapear para dor real + mecanismo produto + aplicacao pratica, escolher outro tema.
 - Se nao houver acesso seguro ao deploy, produzir o artigo e capa localmente, registrar bloqueio e avisar.
 - Se detectar problema em producao que possa derrubar o site, parar antes do deploy e avisar.
