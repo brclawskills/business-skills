@@ -1,13 +1,13 @@
 ---
-name: "conecta-instagram-organico-rotina-1h-segura"
-description: "Rotacao de praca se bloco performar mal"
+name: "instagram-organic-hourly-routine"
+description: "Rotina segura de Instagram organico por blocos, com rotacao quando performar mal."
 ---
 
-# Proposta de atualizacao - Rotacao de praca por baixa performance
+# Instagram Organico Rotina 1h Segura
 
 ## Objetivo
 
-Fortalecer a skill `conecta-instagram-organico-rotina-1h-segura` com uma regra explicita de mudanca de municipio/regiao quando uma rodada de prospeccao ficar muito abaixo da meta ou quando a fila local estiver saturada.
+Fortalecer a skill `instagram-organic-hourly-routine` com uma regra explicita de mudanca de municipio/regiao quando uma rodada de prospeccao ficar muito abaixo da meta ou quando a fila local estiver saturada.
 
 ## Adicao proposta
 
