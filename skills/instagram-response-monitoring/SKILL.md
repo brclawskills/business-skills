@@ -1,9 +1,9 @@
 ---
-name: "conecta-instagram-monitoramento-respostas"
-description: "Monitorar sinais do Instagram orgânico e decidir follow-up seguro."
+name: "instagram-response-monitoring"
+description: "Monitorar sinais do Instagram organico e decidir follow-up seguro."
 ---
 
-# Conecta Instagram Monitoramento De Respostas
+# Instagram Monitoramento de Respostas
 
 ## Objetivo
 
@@ -13,8 +13,8 @@ Monitorar sinais gerados pela prospecção orgânica no Instagram, registrar evi
 
 Usar para:
 
-- checar notificações do Instagram do Conecta;
-- verificar respostas ou curtidas em comentários feitos pelo perfil `fidelizaconectaclube`;
+- checar notificações do Instagram do produto;
+- verificar respostas ou curtidas em comentários feitos pelo perfil `perfil_da_marca`;
 - atualizar `instagramLeads`, `instagramInteractions` e `prospects` no ERP local;
 - propor ou enviar DM apenas quando houver sinal explícito e contexto adequado.
 
@@ -29,8 +29,8 @@ Não usar para:
 
 Prioridade:
 
-1. Notificações do Instagram Web/Chrome aberto no perfil do Conecta.
-2. Post onde o Conecta comentou, procurando resposta direta ao comentário.
+1. Notificações do Instagram Web/Chrome aberto no perfil do produto.
+2. Post onde o produto comentou, procurando resposta direta ao comentário.
 3. Perfil da empresa, buscando mudança recente de follow/curtida/resposta.
 4. Registro local `instagramInteractions` para saber o que foi comentado e onde.
 
@@ -38,7 +38,7 @@ Sinais:
 
 - `liked-us`: empresa ou perfil relacionado curtiu nosso comentário.
 - `replied`: empresa respondeu ao nosso comentário.
-- `followed-back`: empresa seguiu o Conecta.
+- `followed-back`: empresa seguiu o produto.
 - `dm-inbound`: empresa mandou DM.
 - `negative`: resposta negativa, crítica, pedido para parar ou indício de incômodo.
 
@@ -53,7 +53,7 @@ Sinais:
 ## Fluxo Operacional
 
 1. Ler `memory/YYYY-MM-DD.md` e `instagramInteractions` do ERP para identificar comentários recentes.
-2. Abrir Instagram Web no Chrome já logado no perfil do Conecta, sem trocar conta/perfil.
+2. Abrir Instagram Web no Chrome já logado no perfil do produto, sem trocar conta/perfil.
 3. Checar notificações visíveis.
 4. Para cada sinal:
    - confirmar que vem de perfil comercial/local ou da empresa alvo;
@@ -82,13 +82,13 @@ Quando responder publicamente:
 Exemplo público:
 
 ```text
-Verdade. Quando a base já gosta da casa, uma ação simples de retorno costuma fazer diferença. Posso te mandar uma ideia rápida por direct?
+Verdade. Quando a base já gosta da casa, uma ação simples de retorno costuma fazer diferença. Posso te mandar uma ideia rápida por direct
 ```
 
 Quando houver permissão para DM:
 
 ```text
-Oi! Vi seu retorno no comentário e achei que fazia sentido mandar uma ideia bem rápida. O Conecta ajuda lojas locais a trazer cliente antigo de volta com pontos, recompensas e campanhas simples. Quer que eu te mande um exemplo prático para o seu segmento?
+Oi! Vi seu retorno no comentário e achei que fazia sentido mandar uma ideia bem rápida. O produto ajuda lojas locais a trazer cliente antigo de volta com pontos, recompensas e campanhas simples. Quer que eu te mande um exemplo prático para o seu segmento
 ```
 
 ## Critérios Para Não Enviar DM
@@ -123,9 +123,9 @@ Atualizar `prospects`:
 - `temperature`: `morno-organico` ou `quente-organico`.
 - `nextStep`: próxima ação segura.
 
-## Notificação Ao Bruno
+## Notificação Ao responsavel pelo negocio
 
-Avisar Bruno quando:
+Avisar o responsavel pelo negocio quando:
 
 - houver resposta com intenção real;
 - houver DM inbound;
