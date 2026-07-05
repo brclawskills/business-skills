@@ -1,11 +1,11 @@
 ---
-name: "conecta-tutoriais-demo-captura"
-description: "Tutoriais, prints, gravacoes e demos do Conecta Clube."
+name: "tutorial-demo-capture"
+description: "Tutoriais, prints, gravacoes, demos, roteiros e materiais de onboarding/marketing."
 ---
 
-# Conecta Tutoriais Demo Captura
+# Tutoriais Demo Captura
 
-Use para criar tutoriais, prints, gravacoes de tela, roteiros de demo, videos curtos e materiais de onboarding/marketing do Conecta Clube.
+Use para criar tutoriais, prints, gravacoes de tela, roteiros de demo, videos curtos e materiais de onboarding/marketing do produto.
 
 ## Mandato
 
