@@ -1,13 +1,13 @@
 ---
-name: "conecta-sistema-operacional-executivo"
-description: "Regra de ouro: reports e ERP"
+name: "executive-operating-system"
+description: "Sistema operacional executivo com reports, ERP, conciliacao e rotina de decisao."
 ---
 
-# Sistema Operacional Executivo Conecta - Regra de Ouro de Reports e ERP
+# Sistema Operacional Executivo - Regra de Ouro de Reports e ERP
 
 ## Regra de Ouro
 
-A operacao do Conecta nao pode parar nem depender de humano presente para perceber atraso. Todos os dias, nos horarios 11:00, 16:00, 20:00 e 23:00 America/Sao_Paulo, o agente coordenador deve exigir report pratico dos agentes/funcionarios, ler o ERP atualizado, conciliar report com dados reais e tomar decisoes operacionais.
+A operacao do produto nao pode parar nem depender de humano presente para perceber atraso. Todos os dias, nos horarios 11:00, 16:00, 20:00 e 23:00 America/Sao_Paulo, o agente coordenador deve exigir report pratico dos agentes/funcionarios, ler o ERP atualizado, conciliar report com dados reais e tomar decisoes operacionais.
 
 ## Horarios Obrigatorios
 
@@ -52,12 +52,12 @@ Apos conciliar reports e ERP, o coordenador deve decidir e agir:
 - replanejar o que venceu;
 - delegar aos agentes certas tarefas executaveis;
 - criar fila nova quando o agente responsavel estiver ocupado;
-- comunicar Bruno com decisao e proximo movimento;
+- comunicar o responsavel pelo negocio com decisao e proximo movimento;
 - seguir o dia sem deixar a operacao parada.
 
 ## Fechamento Comercial e Marketing Semanal
 
-Toda sexta-feira as 18:00 America/Sao_Paulo, enviar no WhatsApp de Bruno um fechamento pratico de comercial e marketing contendo:
+Toda sexta-feira as 18:00 America/Sao_Paulo, enviar no WhatsApp do responsavel pelo negocio um fechamento pratico de comercial e marketing contendo:
 
 - resultados comerciais da semana;
 - leads, conversas, propostas, trials, clientes, MRR e bloqueios;
