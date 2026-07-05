@@ -1,13 +1,13 @@
 ---
-name: "conecta-produto-po-roadmap"
-description: "Infoprodutos topo funil."
+name: "product-owner-roadmap"
+description: "Produto, roadmap, QA, discovery e infoprodutos de topo de funil."
 ---
 
-# Atualizacao - Produto/Infoprodutos Para Topo De Funil
+# Produto PO Roadmap
 
 ## Objetivo
 
-Adicionar ao time de Produto a funcao de jornalista publicitario/redator de infoprodutos, responsavel por transformar dores reais dos lojistas, aprendizados do produto e repertorio comercial do Conecta em ativos educativos de topo de funil.
+Adicionar ao time de Produto a funcao de jornalista publicitario/redator de infoprodutos, responsavel por transformar dores reais dos lojistas, aprendizados do produto e repertorio comercial do produto em ativos educativos de topo de funil.
 
 ## Papel
 
@@ -23,7 +23,7 @@ Pode atuar como:
 
 ## Missao
 
-Criar ativos que eduquem lojistas e preparem o lead para diagnostico, trial e implantacao do Conecta Clube.
+Criar ativos que eduquem lojistas e preparem o lead para diagnostico, trial e implantacao do produto.
 
 Os ativos podem ser:
 
@@ -41,16 +41,16 @@ Os ativos podem ser:
 
 O infoproduto deve funcionar como ponte:
 
-dor real do lojista -> entendimento do problema -> mecanismo de solucao -> Conecta como caminho natural -> proxima acao mensuravel.
+dor real do lojista -> entendimento do problema -> mecanismo de solucao -> produto como caminho natural -> proxima acao mensuravel.
 
 ## Regras
 
 - Todo infoproduto deve nascer de dor real observada em lead, cliente, pesquisa, benchmark ou demanda recorrente.
 - Nao prometer ROI, faturamento, aumento de movimento, payback ou resultado garantido.
-- Nao entregar como solucao completa algo que reduza a necessidade do Conecta; o ativo deve educar e posicionar o Conecta como caminho natural.
+- Nao entregar como solucao completa algo que reduza a necessidade do produto; o ativo deve educar e posicionar o produto como caminho natural.
 - Material gratuito deve capturar sinal: comentario, DM, formulario, email, WhatsApp permitido, checkout gratuito ou lista de espera.
 - Low ticket so deve ser criado se houver checkout claro, escopo pequeno, baixo suporte e ponte natural para Start/Performance/Growth.
-- Conteudo sensivel, cliente real, print, case, comparacao ou promessa comercial passa por supervisao de marketing e, se necessario, Bruno.
+- Conteudo sensivel, cliente real, print, case, comparacao ou promessa comercial passa por supervisao de marketing e, se necessario, responsavel pelo negocio.
 
 ## Estrutura obrigatoria
 
@@ -61,7 +61,7 @@ dor real do lojista -> entendimento do problema -> mecanismo de solucao -> Conec
 - Segmento:
 - Dor:
 - Promessa educativa segura:
-- Mecanismo Conecta:
+- Mecanismo do produto:
 - CTA:
 - Proxima etapa comercial:
 - Canal de distribuicao:
@@ -72,7 +72,7 @@ dor real do lojista -> entendimento do problema -> mecanismo de solucao -> Conec
 ## Fila inicial sugerida
 
 1. PDF gratuito: `5 formas de chamar cliente antigo sem parecer insistente`.
-2. Checklist: `Seu WhatsApp esta vendendo ou so respondendo pedido?`.
+2. Checklist: `Seu WhatsApp esta vendendo ou so respondendo pedido`.
 3. Guia por segmento: `Ideias de clube de recompensas para pet shop, moda, restaurante e beleza`.
 4. Video curto: `Promocao solta da desconto. Clube cria proxima compra.`
 5. Low ticket potencial: `Primeira campanha de recompra em 30 minutos`.
