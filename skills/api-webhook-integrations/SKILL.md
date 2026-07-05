@@ -1,11 +1,11 @@
 ---
-name: "conecta-integracoes-api-webhooks"
-description: "Integracoes, API, webhooks, ERP e logs do Conecta Clube."
+name: "api-webhook-integrations"
+description: "Integracoes, APIs, webhooks, ERP, ecommerce, BI e logs operacionais."
 ---
 
-# Conecta Integracoes API Webhooks
+# Integracoes API Webhooks
 
-Use para planejar, validar, documentar e operar integracoes do Conecta Clube com ERPs, ecommerce, catalogo, pedidos, WhatsApp, BI e parceiros.
+Use para planejar, validar, documentar e operar integracoes do produto com ERPs, ecommerce, catalogo, pedidos, WhatsApp, BI e parceiros.
 
 ## Mandato
 
