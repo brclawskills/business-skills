@@ -1,23 +1,23 @@
 ---
-name: "conecta-instagram-segunda-interacao-organica"
-description: "Cadencia diaria de segunda interacao Instagram."
+name: "instagram-second-organic-interaction"
+description: "Cadencia diaria de segunda interacao organica no Instagram com contexto e limite."
 ---
 
-# Conecta Instagram Segunda Interacao Organica
+# Instagram Segunda Interacao Organica
 
 ## Objetivo
 
-Executar diariamente a segunda etapa do pipeline de trafego organico e prospeccao ativa outbound no Instagram: identificar lojas que interagiram com a captacao inicial do Conecta e fazer uma nova interacao contextual, curta e inteligente, usando um insight de negocio ligado a alguma possibilidade do Conecta Clube.
+Executar diariamente a segunda etapa do pipeline de trafego organico e prospeccao ativa outbound no Instagram: identificar lojas que interagiram com a captacao inicial do produto e fazer uma nova interacao contextual, curta e inteligente, usando um insight de negocio ligado a alguma possibilidade do produto.
 
 ## Quando Usar
 
 Use esta rotina quando houver sinal depois da captacao inicial, por exemplo:
 
-- a loja curtiu comentario do Conecta;
-- a loja respondeu comentario do Conecta;
-- a loja seguiu o perfil do Conecta;
+- a loja curtiu comentario do produto;
+- a loja respondeu comentario do produto;
+- a loja seguiu o perfil do produto;
 - a loja enviou DM inbound ou mensagem automatica;
-- a loja curtiu, respondeu ou interagiu com algum conteudo publicado pelo Conecta;
+- a loja curtiu, respondeu ou interagiu com algum conteudo publicado pelo produto;
 - um perfil claramente relacionado ao negocio, como dono, gerente ou colaborador, interagiu com a abordagem inicial.
 
 Nao usar para leads frios que apenas foram seguidos e nao deram nenhum sinal.
@@ -36,8 +36,8 @@ Se o volume estiver alto, limitar a segunda interacao a 5 a 10 leads por dia, pr
 
 1. respostas publicas ou DMs inbound;
 2. follow-back da loja;
-3. curtida no comentario do Conecta;
-4. curtida em conteudo do Conecta;
+3. curtida no comentario do produto;
+4. curtida em conteudo do produto;
 5. sinal indireto de dono/gerente quando o vinculo com a loja for claro.
 
 Nao ficar atualizando notificacoes em loop. Se houver captcha, aviso, bloqueio, lentidao estranha ou falha de follow/interacao, parar e registrar.
@@ -46,9 +46,9 @@ Nao ficar atualizando notificacoes em loop. Se houver captcha, aviso, bloqueio, 
 
 Checar, nesta ordem:
 
-1. Notificacoes do Instagram do perfil `@fidelizaconectaclube`.
+1. Notificacoes do Instagram do perfil `@perfil_da_marca`.
 2. DMs recebidas, separando inbound real de mensagem automatica.
-3. Comentarios recentes feitos pelo Conecta e suas curtidas/respostas.
+3. Comentarios recentes feitos pelo produto e suas curtidas/respostas.
 4. Memoria/ERP da captacao inicial para saber quais perfis foram abordados.
 5. Perfil do lead para confirmar atividade recente.
 
@@ -91,7 +91,7 @@ A interacao precisa:
 - parecer escrita para aquela loja, nao copiada;
 - elogiar ou reconhecer algo real do post/story;
 - trazer um insight pratico de negocio;
-- conectar de leve com uma feature do Conecta, sem palestra;
+- conectar de leve com uma feature do produto, sem palestra;
 - despertar curiosidade no gestor ou proprietario;
 - nao expor fragilidade da empresa;
 - nao prometer resultado;
@@ -101,7 +101,7 @@ A interacao precisa:
 
 Tom: vendedor marketeiro consultivo. Inteligente, positivo, direto e humano.
 
-## Features Do Conecta Que Podem Virar Insight
+## Features Do produto Que Podem Virar Insight
 
 Use conforme o segmento:
 
@@ -185,7 +185,7 @@ Nao comentar se:
 - o feed estiver antigo demais;
 - o perfil parecer pessoal;
 - a loja nao deu sinal real na captacao inicial;
-- ja houve comentario recente do Conecta naquele mesmo perfil;
+- ja houve comentario recente do produto naquele mesmo perfil;
 - a interacao ficaria generica ou forcada.
 
 ## Registro Obrigatorio
@@ -198,7 +198,7 @@ Registrar no diario operacional e, quando houver ERP/local estruturado, em `inst
 - conteudo recente analisado;
 - tipo de segunda interacao: comentario, curtida, story reply, DM permissiva ou sem acao;
 - texto usado, se houver;
-- feature/insight do Conecta usado;
+- feature/insight do produto usado;
 - resultado imediato: sem retorno, curtiu, respondeu, seguiu, DM inbound, negativo;
 - proximo passo.
 
@@ -230,9 +230,9 @@ Modelo de DM permissiva:
 Vi seu retorno e pensei numa ideia bem pratica para o seu segmento: usar pontos/recompensas para trazer de volta quem ja comprou, sem depender so de desconto. Quer que eu te mande um exemplo rapido aplicado a sua loja?
 ```
 
-## Notificacao Ao Bruno
+## Notificacao Ao Responsavel
 
-Avisar Bruno quando:
+Avisar o responsavel pelo negocio quando:
 
 - uma loja virar `dm-ready`;
 - houver resposta positiva clara;
