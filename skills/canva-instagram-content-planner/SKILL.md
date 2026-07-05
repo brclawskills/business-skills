@@ -1,13 +1,13 @@
 ---
-name: "conecta-canva-planejador-instagram"
-description: "Canva: legenda nunca na arte"
+name: "canva-instagram-content-planner"
+description: "Canva e Instagram: planejar, revisar e agendar conteudo organico com legenda fora da arte."
 ---
 
-# Conecta Canva Planejador Instagram
+# Canva Planejador Instagram
 
 ## Objetivo
 
-Operar o agendamento organico do Instagram do Conecta Clube pelo Canva Desktop instalado no Windows, usando a conta ja logada e o perfil Instagram conectado no Canva, sem depender da Meta Business API para publicacao.
+Operar o agendamento organico do Instagram do produto pelo Canva Desktop instalado no Windows, usando a conta ja logada e o perfil Instagram conectado no Canva, sem depender da Meta Business API para publicacao.
 
 ## Principio Operacional
 
@@ -15,10 +15,10 @@ Usar o Canva como camada pratica de publicacao/agendamento quando:
 
 - a Meta Business API estiver bloqueada por autenticacao, token ou permissoes;
 - o Canva Desktop ja estiver logado;
-- o Instagram `@fidelizaconectaclube` ja estiver conectado no Planejador de Conteudo;
+- o Instagram `@perfil_da_marca` ja estiver conectado no Planejador de Conteudo;
 - houver criativo, legenda, hashtags, data e horario definidos.
 
-Nao tratar o Canva como substituto da estrategia. Antes de agendar, a peca precisa passar pela regua minima dos criativos do Conecta: dor comercial clara, portugues brasileiro correto, elemento visual contextual, CTA mensuravel e conforto visual.
+Nao tratar o Canva como substituto da estrategia. Antes de agendar, a peca precisa passar pela regua minima dos criativos do produto: dor comercial clara, portugues brasileiro correto, elemento visual contextual, CTA mensuravel e conforto visual.
 
 ## NAO FAZER: Legenda Nunca Vai Na Imagem
 
@@ -62,8 +62,8 @@ Se a imagem ja estiver com legenda/hashtags queimadas:
 ## Guardrails
 
 - Nao publicar/agendar nada sem autorizacao explicita do usuario ou sem lote previamente aprovado.
-- Nao misturar conteudos do Conecta com Help Seller ou outras empresas.
-- Selecionar sempre o perfil Instagram correto: `@fidelizaconectaclube`.
+- Nao misturar conteudos do produto com outra marca ou unidade de negocio ou outras empresas.
+- Selecionar sempre o perfil Instagram correto: `@perfil_da_marca`.
 - Confirmar data, horario, legenda e criativo antes do clique final de agendamento.
 - Se a interface estiver ambigua, parar e pedir confirmacao antes de clicar em publicar/agendar.
 - Nao usar dados reais de clientes, prints, conversas ou cases sem aprovacao especifica.
@@ -97,7 +97,7 @@ Use quando houver risco de posts futuros sairem com legenda/hashtags dentro da i
 2. Comecar pelos proximos posts futuros; nao alterar publicacoes ja realizadas.
 3. Abrir cada agendamento pelo calendario.
 4. Confirmar:
-   - canal `fidelizaconectaclube` selecionado;
+   - canal `perfil_da_marca` selecionado;
    - data/hora correta;
    - design `1/1`;
    - preview da arte sem legenda completa/hashtags queimadas;
@@ -116,7 +116,7 @@ Use este caminho quando acabou de criar o design 4:5 avulso:
 2. Selecionar `Agendar`.
 3. Escolher data e horario no painel lateral.
 4. Clicar em `Avancar`.
-5. Selecionar o canal Instagram `@fidelizaconectaclube`.
+5. Selecionar o canal Instagram `@perfil_da_marca`.
 6. Inserir legenda, hashtags e CTA no campo de legenda.
 7. Revisar visualmente:
    - perfil correto;
@@ -135,7 +135,7 @@ Para cada post, confirmar:
 
 - Hook forte nos primeiros segundos ou primeira dobra.
 - Dor ou desejo aparece antes da funcionalidade.
-- Mecanismo Conecta esta claro.
+- Mecanismo do produto esta claro.
 - CTA gera acao mensuravel: comentar palavra-chave, salvar, compartilhar, responder story ou chamar DM.
 - Portugues brasileiro correto com acentuacao.
 - Elemento visual contextual quando fizer sentido: `%`, carrinho, conversa, pedido, pontos, cupom, calendario, entrega, lista ou grafico.
